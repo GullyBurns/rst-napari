@@ -11,3 +11,8 @@ __pycache__/
 /Python/*.txt
 /Python/*.tsv
 
+.history
+.venv/
+Python/.history
+dist/
+ontomatch.egg-info/
