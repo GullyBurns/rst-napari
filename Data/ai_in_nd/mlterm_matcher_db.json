@@ -1,0 +1,6 @@
+{
+    "EDAM": "/FileStore/user/gully/ontomatcher/ai_in_nd/rst-napari/Data/ai_in_nd/ml_terms.csv",
+    "imgont": "/FileStore/user/gully/ontomatcher/ai_in_nd/rst-napari/Data/ai_in_nd/ml_subontology.json",
+    "curated_syns": "/FileStore/user/gully/ontomatcher/ai_in_nd/rst-napari/Data/ai_in_nd/curated_mlterm_synonyms.csv",
+    "matcher": "/FileStore/user/gully/ontomatcher/ai_in_nd/triematcher_opts.json"
+}

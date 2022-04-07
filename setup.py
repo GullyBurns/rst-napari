@@ -6,7 +6,7 @@ setup(
     name='ontomatch',
     version='1.0.0',
     packages=['ontomatch'],
-    package_dir={'ontomatch': 'Python'},
+    package_dir={'ontomatch': 'Python/ontomatch'},
     package_data={'ontomatch': ['Data']},
     url='https://github.com/chanzuckerberg/rst-napari',
     license='MIT ',

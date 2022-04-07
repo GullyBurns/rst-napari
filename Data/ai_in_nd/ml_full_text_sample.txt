@@ -1,0 +1,94 @@
+Alternatively, the users may score the candidate genes by changing the weight or the scores on the basis of their own working hypothesis.
+This criterion was achieved by excluding four Alzheimer's disease subjects from the third set compared to the control group.
+This choice of gold standard limited the number of mildly affected subjects in the training set and hence any conclusion can be drawn from this study.
+Support vector machine classification and regression models with molecular descriptors derived from Shape Signatures and the Molecular Operating Environment (MOE) application software were built and tested using a set of piperidine AChE inhibitors (N = 110).
+"Predicting Clinical Scores from Magnetic Resonance Scans in Alzheimer's Disease"
+The general inclusion criteria were those of ADNI (http://clinicaltrials.gov/show/NCT00106899).
+"The predicted score of a new subject can be calculated by computing the dot-product (sum of element-wise multiplication) of
+the weighting image obtained from the training group and the new subject's pre-processed image (features), then adding a constant."
+"Years of education--one factor thought to provide cognitive reserve--and the prediction error (actual score minus predicted score) were significantly correlated for the MMSE and ADAS-Cog in the ADNI data-set."
+Once a model is learned, we can refine the modification for each input peptide sequence by inferring its most likely PTM group, true modification mass and true modification position.
+The latent variable cn in [1,.., K] denotes the unknown PTM group for peptide sequence n, where K is the number of PTM groups and will be adjusted depending on the desired false detection rate, as described later.
+After post-processing with our algorithm, ~41% (93) of the mismatches were corrected, which significantly improved the overlap between the results from the two algorithms.
+PTMFinder failed here because only ~4% (69) of spectra map to modified peptides already detected in the dataset.
+Testing for spatial heterogeneity in functional MRI using the multivariate general linear model.
+CSF Abeta42 levels remain low throughout the disease course <<REF:Fagan-2006-59-512>>, <<REF:Andreasen-1999-56-673>>, <<REF:Zetterberg-2007-12-255>>. In contrast, CSF tau and p-tau levels progressively increase with the advancing stages of AD, and in some individuals, begin to rise several years prior to diagnosis <<REF:Fagan-2007-64-343>>, <<REF:Andersson-2008-29-1466>>, <<REF:Buchhave-2009-4-e6294>>. The ratios of tau or p-tau to Abeta42 have also proven useful for predicting clinical progression in individuals who have very mild dementia or mild cognitive impairment (MCI), and, importantly, for predicting future MCI and AD dementia among those who are cognitively normal <<REF:Fagan-2007-64-343>>, <<REF:Hansson-2006-5-228>>, <<REF:Li-2007-69-631>>. Nevertheless, even for these analytes, there is substantial overlap between control and AD groups and a need for better prognostic ability <<REF:Sunderland-2003-289-2094>>. Consequently, there remains a need for supplemental biomarkers to improve diagnosis and prognosis at different disease stages.
+The immunohistochemical findings of a small study of 6 AD brains suggesting that calbindin-immunopositive neurons are relatively preserved in cases with moderate amyloid plaque and neurofibrillary content but are lost in more severe cases <<REF:Iritani-2001-21-162>> prompts the question of whether CSF calbindin levels would be more significantly elevated in more severely demented individuals.
+Effects of hardware heterogeneity on the performance of SVM Alzheimer's disease classifier.
+Logistic Regression
+Pictorial representation of a neural network (multilayer perceptron) with input layer (dendrites), hidden layer (nucleus) and output layer (axon) (see text for a description of the neural networks components).
+The number of neurons in the hidden layer was iteratively adjusted by the software to minimize classification errors in the train data set.
+Figure 4 <<FIG:F4>> shows the box-plots of the total classification accuracy for the 10 classifiers studied.
+It is worthwhile to mention that LR, MLP, RBF and CHAID had median sensitivity values close to or lower than 0.5, and that SVM was the classifier with the significantly lowest sensitivity.
+Although, we used settings, that are most commonly used in data mining applications, and tuning parameters, that were optimally determined by grid search methods that minimize total error rates, it may well be that the performance of the data mining methods is just a reflection of the tuning parameters chosen.
+Support Vector Machines (SVMs)
+As j --> k, aj, bj --> 0, thus ensuring that a decision will be made by the kth component.
+In FastICA algorithm, nonlinear function g(u)=tanh(a1*u) was used as the probability density distribution of the outputs during the iteration, where here a1 is a constant.
+Such as: Programmed cell death 6, deleted in liver cancer 1, cyclin N-terminal domain containing 2, killer cell immunoglobulin-like receptor, p21, p53.
+In the second set of experiments, we predict the 2-year changes of MMSE and ADAS-Cog scores and also the conversion of MCI to AD from the baseline MRI, FDG-PET, and CSF data.
+Moreover, we used the classifiers to select AD and MCI subjects who are most likely to decline for inclusion in hypothetical CTs.
+DTI measures were then used together with support vector machines (SVMs) to classify control and MCI subjects.
+A distance map is then created which is used to project each FA image onto the mean FA skeleton that is common to all subjects <<REF:Smith-2006-31-1487>>. The same non-linear transformations derived for the FA maps were applied to the DA, DR and MD maps."
+ROC curve for control, MCIna and MCIa classification.
+Each peptide chain is represented by 918 features.
+Figure 2
+These data begin to identify biochemical biomarkers of depressive symptoms in older adults that may be useful in investigations of pathophysiological mechanisms of depression in aging and neurodegenerative dementias and as targets of novel treatment approaches.
+"Linear regression models determined the statistical strengths of associations of analytes with depressive symptoms at baseline and at month 12."
+The top 20 genes selected by the three feature selection methods.
+Notably, while the list of Soler et al. is also enriched in the genes found by information gain and random forest, the gene list of brain-specific tissue found by Goni et al. is only significantly enriched in the gene lists of size 100 and more that are derived by our GA/SVM.
+During each run it selects a specific small set of genes.
+We use 3,000 small sets to ensure a sufficiently large number of significantly over- and under-represented gene pairs for our analysis, where significance is defined as described in the Methods section.
+"Many machine learning methods used for learning biomarkers, such as information gain [<<REF:Witten-2005-?-?>>] and random forest [<<REF:Breiman-2001-45-5>>], perform only univariate ranking of genes."
+It further chooses LOC283755, PTPN3 and PCYOX1L as most important genes.
+This way 160 new chromosomes are generated.
+Minimal gain of accuracy:
+Methodology Baseline structural MRI data from cognitively normal and Alzheimer's disease (AD) patients from the AD Neuroimaging Initiative database were used in this study.
+For example, a Cartesian grid in 10 dimensions with spacing of 0.1 on the unit cube will have  points, 20 dimensions lead to  points, and so on.
+Materials and Methods
+Regularization methods in the GLMNET library
+The sample size was varied from 20 to 210 (20, 30, 40, 50, 60, 90, 120, 150, 180, 210) with balanced numbers of CN and AD participants.
+Using accelerometer data we estimate the following activities of 18 healthy subjects and eight patients with Parkinson's disease: walking, standing, sitting, holding, or not wearing the phone.
+The activities were performed in a laboratory setting in the order shown below.
+Thus, Markov blanket methods can detect the causal disease SNPs with the fewest false positives.
+The first component is the DAG G reflecting the structure of the network.
+One of the most important issues in score-and-search methods is the selection of scoring function.
+The log-likelihood of LDS and LDS0 can also be expressed as follows:
+However, we are not very concerned about this: there are no equivalent structures in the two-layer Bayesian network for the restriction on the direction of edges we describe in the previous section.
+Then we select the network with the highest score in the local neighbourhood to get the maximal gain.
+Our results do not contain any of the 10 SNPs in GAB2 found in [<<REF:Reiman-2007-54-713>>].
+This makes the tasks of both disease classification and interpretation extremely challenging.
+Experimental datasets, upon which new classification methods could be built, are still very limited.
+The results are ordered by decreasing AUC.
+FoldAmyloid is based on the packing density [<<REF:Maurer-Stroh-2010-7-237>>] and Waltz is based on PSSMs primarily derived from a dataset classified by physicochemical modeling [<<REF:Fernandez-Escamilla-2004-22-1302>>].
+Parameters not specified have their values set to default.
+Out of the above mentioned methods, ADTree algorithm has several advantages over other machine learning methods, such as MLP or SVM, including easy interpretation of the results.
+Each tree consists of decision and prediction nodes.
+The classification results were evaluated based on typical measures: Sensitivity (called True Positive Rate - TPR), Specificity (True Negative Rate - TNR), Accuracy (Acc).
+GSE4227_RawData_Normalized.xlsx.
+GSE4229 Female Gene List.xlsx.
+Although NB relies on the naive assumption of statistical independence of the features, previous results, e.g. Plant et al. <<REF:Plant-2010-50-162>>, showed that NB performs well for the discrimination of AD patients from healthy controls even if the assumption of statistical independence of different features is violated.
+The study was approved by local ethics committees at each of the participating centers, i.e. (i) the ethics committee of the medical faculty of the Ludwig-Maximilian-University, Munich, (ii) the ethics committee of the IRCCS San Giovanni di Dio FBF, Brescia, (iii) the Faculty Research Ethics Committee, Faculty of Health Sciences, Trinity College Dublin, (iv) the ethics committee at the Landesarztekammer Rheinland-Pfalz, Mainz, (v) the ethics committee of San Raffaele Hospital, Milan, (vi) the ethics committee of the faculty of medicine of the Goethe University, Frankfurt, (vii) the ethics committee of the University Medical Center, Freiburg, and (viii) the ethics committee of the medical faculty of the University of Rostock.
+All participants were free of any significant neurological, psychiatric or medical condition (except for AD in patients), in particular cerebrovascular apoplexy, vascular dementia, depression, subclinical hypothyroidism as well as substance abuse.
+Classification Methods
+For classification we used two different types of classifiers: (i) a multivariate Support Vector Machine (SVM) <<REF:Cortes-1995-20-273>>, <<REF:???-?-?-?
+For the test data we first applied the same scaling parameters as determined previously for the z-score transformation of the training data.
+Under the assumption that different scanners and scan parameters introduce independent variance, it is highly probable that a certain bias will remain in the test dataset after applying the variance reduction.
+Figure S1 shows the clusters of informative voxels derived from the averaged IG maps for each of the modalities.
+These points were restricted to be at least 10.5 mm distant from each other.
+IG maps for (A) FA, (B) MD, (C) WMD, and (D) GMD.
+We have computed the amino acid composition of all the amyloid and non-amyloid peptides using the ratio between the number of amino acids of each type and the total number of residues.
+Sensitivity = TP/(TP+FN)
+Bold letters indicate common amino acid residues in amyloid and non-amyloid.
+The total hydrophobicity values were divided into several bins and the frequency of occurrence of peptides at different ranges of hydrophobicity is plotted in Figure 4 <<FIG:F4>>. In general, amyloid peptides have higher (HT) values than non-amyloid peptides; and non-amyloid peptides are more frequent than amyloid peptides up to the HT value of 200.
+This study presents a noninvasive surface EMG method for supporting diagnosis of amyotrophic lateral sclerosis (ALS).
+We propose that efforts should be directed toward clinically challenging predictions in which neuroimaging may have added value, compared with the existing standard assessment.
+Each individual has two copies of this gene, one inherited from each parent.
+Subjects are designated as HC, AD or MCI at the time of the baseline scan, and for the purposes of this study MCI conversion status is decided by whether subjects who were MCI at baseline were subsequently diagnosed as AD at any stage during the subsequent 36 month follow-up period.
+In the smaller group for which both PET and CSF data were available in all subjects, the same pattern applied in that multimodal methods outperformed all single modality methods.
+Moreover, it has the potential to discover combinations that can be formed by features that may not be individually associated with the phenotype in question.
+These examples illustrate how network structure allows one to measure the impact of a selected set of nodes on the system (brain) as a whole and to understand the nature of connectivity within the subset of nodes to study the relationship between subgraph connectivity and the disease in question.
+Its primary goal was to test whether serial MRI, PET, other biological markers, and clinical and neuropsychological assessment could be combined to measure the progression of MCI and early AD.
+These last two procedures are implemented by using a nested K2-fold CV.
+The approach is not limited in any way to the 25 cognitive outcome measures we selected here to illustrate the concept.
+WM AD-PS scores showed more significant differences between age groups than the corresponding GM AD-PS scores (see Table 6).
+A new hybrid intelligent system for accurate detection of Parkinson's disease.

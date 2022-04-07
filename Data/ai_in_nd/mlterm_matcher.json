@@ -1,0 +1,6 @@
+{
+    "EDAM": "/Users/gburns/Documents/2022H1/ai_in_nd/rst-napari/Data/ai_in_nd/ml_terms.csv",
+    "imgont": "/Users/gburns/Documents/2022H1/ai_in_nd/rst-napari/Data/ai_in_nd/ml_subontology.json",
+    "curated_syns": "/Users/gburns/Documents/2022H1/ai_in_nd/rst-napari/Data/ai_in_nd/curated_mlterm_synonyms.csv",
+    "matcher": "/Users/gburns/Documents/2022H1/ai_in_nd/rst-napari/Data/ai_in_nd/triematcher_opts.json"
+}

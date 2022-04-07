@@ -1,0 +1,1026 @@
+Class ID	Preferred Label	Synonyms	Definitions	hasExactSynonym	hasNarrowSynonym	hasRelatedSynonym	hasBroadSynonym	Parents
+a0	ML Term							
+a1	à trous algorithm							a0
+a2	AMSGrad							a0
+a3	AdaDelta							a0
+a4	AdaGrad							a0
+a5	Adam							a0
+a6	Padam							a0
+a7	RMSProp							a0
+a8	RPROP							a0
+a9	abstractive summarization							a0
+a10	activation maximization							a0
+a11	active learning							a0
+a12	Adaboost							a0
+a13	Adam							a0
+a14	Adamic							a0
+a15	Adar							a0
+a16	adaptive basis functions							a0
+a17	adaptive instance normalization							a0
+a18	adaptive learning rate							a0
+a19	add-one smoothing							a0
+a20	additive attention							a0
+a21	adjusted Rand index							a0
+a22	affine function							a0
+a23	aggregated gradient							a0
+a24	Akaike information criterion							a0
+a25	aleatoric uncertainty							a0
+a26	AlexNet							a0
+a27	alternating least squares							a0
+a28	ambient dimensionality							a0
+a29	amortized inference							a0
+a30	Anscombe’s quartet							a0
+a31	approximate posterior inference							a0
+a32	approximation error							a0
+a33	area under the curve							a0
+a34	Armijo backtracking method							a0
+a35	Armijo-Goldstein							a0
+a36	artificial general intelligence							a0
+a37	artificial intelligence							a0
+a38	artificial neural networks							a0
+a39	asynchronous training							a0
+a40	attention kernel							a0
+a41	attention mechanisms							a0
+a42	attention score							a0
+a43	attention weight							a0
+a44	AUC							a0
+a45	augmented intelligence							a0
+a46	auto-covariance matrix							a0
+a47	Auto-ML							a0
+a48	AutoAugment							a0
+a49	autocorrelation matrix							a0
+a50	autodiff							a0
+a51	autoencoder							a0
+a52	automatic differentiation							a0
+a53	automatic relevancy determination							a0
+a54	AutoRec							a0
+a55	autoregressive model							a0
+a56	average link clustering							a0
+a57	average pooling							a0
+a58	average precision							a0
+a59	B-splines							a0
+a60	backfitting							a0
+a61	backpropagation							a0
+a62	backpropagation algorithm							a0
+a63	backpropagation through time							a0
+a64	bag of word embeddings							a0
+a65	bag of words							a0
+a66	balloon kernel density estimator							a0
+a67	band-diagonal matrix							a0
+a68	Barnes-Hut algorithm							a0
+a69	barycentric coordinates							a0
+a70	basis function expansion							a0
+a71	basis vectors							a0
+a72	batch learning							a0
+a73	batch normalization							a0
+a74	batch renormalization							a0
+a75	BatchBALD							a0
+a76	Bayes error							a0
+a77	Bayes estimator							a0
+a78	Bayes factor							a0
+a79	Bayes model averaging							a0
+a80	Bayes risk							a0
+a81	Bayes’ rule							a0
+a82	Bayes’ rule for Gaussians							a0
+a83	Bayes’s rule							a0
+a84	Bayesian χ2-test							a0
+a85	Bayesian active learning by disagreement							a0
+a86	Bayesian decision theory							a0
+a87	Bayesian deep learning							a0
+a88	Bayesian factor regression							a0
+a89	Bayesian inference							a0
+a90	Bayesian information criterion							a0
+a91	Bayesian machine learning							a0
+a92	Bayesian model selection							a0
+a93	Bayesian network							a0
+a94	Bayesian neural network							a0
+a95	Bayesian Occam’s razor							a0
+a96	Bayesian optimization							a0
+a97	Bayesian personalized ranking							a0
+a98	Bayesian statistics							a0
+a99	Bayesian t-test							a0
+a100	Beam search							a0
+a101	Berkson’s paradox							a0
+a102	Bernoulli distribution							a0
+a103	Bernoulli mixture model							a0
+a104	BERT							a0
+a105	Bessel function							a0
+a106	beta distribution							a0
+a107	beta function							a0
+a108	beta-binomial							a0
+a109	BFGS							a0
+a110	bi-tempered logistic regression							a0
+a111	bias-variance tradeoff							a0
+a112	BIC loss							a0
+a113	BIC score							a0
+a114	biclustering							a0
+a115	bidirectional RNN							a0
+a116	bigram model							a0
+a117	bilevel optimization							a0
+a118	binary classification							a0
+a119	binary connect							a0
+a120	binary cross entropy							a0
+a121	binary entropy function							a0
+a122	binary logistic regression							a0
+a123	binomial coefficient							a0
+a124	binomial distribution							a0
+a125	binomial regression							a0
+a126	BinomialBoost							a0
+a127	bivariate Gaussian							a0
+a128	black swan paradox							a0
+a129	blackbox optimization							a0
+a130	block diagonal							a0
+a131	block structured matrices							a0
+a132	Blue Brain Project							a0
+a133	Boltzmann distribution							a0
+a134	BookCrossing							a0
+a135	Boolean logic							a0
+a136	Boosting							a0
+a137	bootstrap							a0
+a138	bottleneck							a0
+a139	bound optimization							a0
+a140	bounding boxes							a0
+a141	bowl shape							a0
+a142	box constraints							a0
+a143	box plots							a0
+a144	boxcar kernel							a0
+a145	branching factor							a0
+a146	Brier score							a0
+a147	byte-pair encoding							a0
+a148	C-way N-shot classification							a0
+a149	calibration plot							a0
+a150	canonical correlation analysis							a0
+a151	CatBoost							a0
+a152	categorical PCA							a0
+a153	CatPCA							a0
+a154	Cauchy							a0
+a155	causal CNN							a0
+a156	causal convolution							a0
+a157	characteristic equation							a0
+a158	characteristic length scale							a0
+a159	characteristic matrix							a0
+a160	Chi-squared distribution							a0
+a161	Cholesky decomposition							a0
+a162	Cholesky factorization							a0
+a163	city block distance							a0
+a164	class conditional density							a0
+a165	class confusion matrix							a0
+a166	class imbalance							a0
+a167	class-balanced sampling							a0
+a168	classical MDS							a0
+a169	classification							a0
+a170	cloze							a0
+a171	cloze task							a0
+a172	Clustering							a0
+a173	clustering							a0
+a174	clusters							a0
+a175	co-adaptation							a0
+a176	coclustering							a0
+a177	coefficient of determination							a0
+a178	collaborative filtering							a0
+a179	complementary log-log							a0
+a180	complementary slackness							a0
+a181	complete link clustering							a0
+a182	complexity penalty							a0
+a183	composite objective							a0
+a184	compound hypothesis							a0
+a185	computation graph							a0
+a186	computer graphics							a0
+a187	conditional entropy							a0
+a188	conditional instance normalization							a0
+a189	conditional mixture model							a0
+a190	conditional mutual information							a0
+a191	conjugate function							a0
+a192	conjugate gradient							a0
+a193	conjugate prior							a0
+a194	conservation of probability mass							a0
+a195	Consistency regularization							a0
+a196	consistent estimator							a0
+a197	constrained optimization							a0
+a198	constrained optimization problem							a0
+a199	constrained optimization problems							a0
+a200	contextual word embeddings							a0
+a201	continual learning							a0
+a202	continuous optimization							a0
+a203	contractive autoencoder							a0
+a204	contrastive loss							a0
+a205	contrastive tasks							a0
+a206	control variate							a0
+a207	convex combination							a0
+a208	convex optimization							a0
+a209	convex relaxation							a0
+a210	convolution theorem							a0
+a211	convolution with holes							a0
+a212	convolutional Markov model							a0
+a213	convolutional neural network							a0
+a214	convolutional neural networks							a0
+a215	coreference resolution							a0
+a216	cosine kernel							a0
+a217	cosine similarity							a0
+a218	cross correlation							a0
+a219	cross entropy							a0
+a220	cross validation							a0
+a221	cross-covariance							a0
+a222	cross-entropy							a0
+a223	cross-over rate							a0
+a224	cross-validated risk							a0
+a225	crosscat							a0
+a226	cubic splines							a0
+a227	data augmentation							a0
+a228	data compression							a0
+a229	data fragmentation							a0
+a230	Datasaurus Dozen							a0
+a231	decision tree							a0
+a232	decision trees							a0
+a233	deconvolution							a0
+a234	deep CCA							a0
+a235	deep factorization machines							a0
+a236	deep graph infomax							a0
+a237	deep metric learning							a0
+a238	deep mixture of experts							a0
+a239	deep neural networks							a0
+a240	DeepDream							a0
+a241	DeepWalk							a0
+a242	default prior							a0
+a243	defender’s fallacy							a0
+a244	deflated matrix							a0
+a245	degree of normality							a0
+a246	denoising autoencoder							a0
+a247	dense sequence labeling							a0
+a248	DenseNets							a0
+a249	density estimation							a0
+a250	density kernel							a0
+a251	depth prediction							a0
+a252	depthwise separable convolution							a0
+a253	derivative free optimization							a0
+a254	diagonal covariance matrix							a0
+a255	diagonal matrix							a0
+a256	differentiable programming							a0
+a257	differential entropy							a0
+a258	differentiating under the integral sign							a0
+a259	diffuse prior							a0
+a260	dilated convolution							a0
+a261	dilation factor							a0
+a262	dimensionality reduction							a0
+a263	Dirac delta function							a0
+a264	directed acyclic graph							a0
+a265	directional derivative							a0
+a266	Dirichlet distribution							a0
+a267	Dirichlet energy							a0
+a268	discrete AdaBoost							a0
+a269	discrete optimization							a0
+a270	discrete random variable							a0
+a271	discriminant function							a0
+a272	discriminative classifier							a0
+a273	dispersion parameter							a0
+a274	distance metric							a0
+a275	distant supervision							a0
+a276	distributional hypothesis							a0
+a277	divergence measure							a0
+a278	diverse beam search							a0
+a279	document retrieval							a0
+a280	document summarization							a0
+a281	domain adaptation							a0
+a282	domain adversarial learning							a0
+a283	double centering trick							a0
+a284	double sided exponential							a0
+a285	dropout							a0
+a286	dual feasibility							a0
+a287	dual form							a0
+a288	dual problem							a0
+a289	dual variables							a0
+a290	dummy encoding							a0
+a291	Dutch book theorem							a0
+a292	dynamic graph							a0
+a293	dynamic programming							a0
+a294	early stopping							a0
+a295	echo state network							a0
+a296	economy sized QR							a0
+a297	economy sized SVD							a0
+a298	EfficientNetv2							a0
+a299	eigenfaces							a0
+a300	eigenvalue decomposition							a0
+a301	eigenvalue spectrum							a0
+a302	Einstein summation							a0
+a303	einsum							a0
+a304	elastic embedding							a0
+a305	elastic net							a0
+a306	ell-2 loss							a0
+a307	ELMo							a0
+a308	embedding							a0
+a309	EMNIST							a0
+a310	empirical Bayes							a0
+a311	empirical distribution							a0
+a312	empirical risk							a0
+a313	empirical risk minimization							a0
+a314	encoder-decoder							a0
+a315	encoder-decoder architecture							a0
+a316	endogenous variables							a0
+a317	energy based model							a0
+a318	ensemble learning							a0
+a319	entity discovery							a0
+a320	entity linking							a0
+a321	entity resolution							a0
+a322	entropy minimization							a0
+a323	entropy SGD							a0
+a324	Epanechnikov kernel							a0
+a325	epigraph							a0
+a326	epsilon insensitive loss function							a0
+a327	equal error rate							a0
+a328	equality constraints							a0
+a329	equivariance							a0
+a330	error function							a0
+a331	estimation error							a0
+a332	exclusive KL							a0
+a333	exemplar-based models							a0
+a334	exogenous variables							a0
+a335	expectation maximization							a0
+a336	expected complete data log likelihood							a0
+a337	expected sufficient statistics							a0
+a338	exploding gradient problem							a0
+a339	exploration-exploitation tradeoff							a0
+a340	exploratory data analysis							a0
+a341	exponential dispersion family							a0
+a342	exponential family							a0
+a343	exponential family factor analysis							a0
+a344	exponential family PCA							a0
+a345	Exponential linear unit							a0
+a346	exponential moving average							a0
+a347	exponentially weighted moving average							a0
+a348	exponentiated cross entropy							a0
+a349	exponentiated quadratic							a0
+a350	extractive summarization							a0
+a351	extreme learning machine							a0
+a352	F score							a0
+a353	face detection							a0
+a354	face recognition							a0
+a355	face verification							a0
+a356	FaceNet							a0
+a357	factor analysis							a0
+a358	factor loading matrix							a0
+a359	factorization machine							a0
+a360	FAISS							a0
+a361	fan-in							a0
+a362	fan-out							a0
+a363	Fano’s inequality							a0
+a364	farthest point clustering							a0
+a365	Fashion-MNIST							a0
+a366	fast adapation							a0
+a367	fast Hadamard transform							a0
+a368	feature crosses							a0
+a369	feature detection							a0
+a370	feature engineering							a0
+a371	feature extraction							a0
+a372	feature extractor							a0
+a373	feature importance							a0
+a374	feature map							a0
+a375	feature preprocessing							a0
+a376	feature selection							a0
+a377	featurization							a0
+a378	feedforward neural network							a0
+a379	few-shot classification							a0
+a380	few-shot learning							a0
+a381	fill-in-the-blank							a0
+a382	filter response normalization							a0
+a383	fine-grained classification							a0
+a384	fine-grained visual classification							a0
+a385	fine-tune							a0
+a386	fine-tuning phase							a0
+a387	finite difference							a0
+a388	finite sum problem							a0
+a389	first order Markov condition							a0
+a390	Fisher information matrix							a0
+a391	Fisher scoring							a0
+a392	Fisher’s linear discriminant analysis							a0
+a393	FISTA							a0
+a394	forget gate							a0
+a395	forward mode differentiation							a0
+a396	forward stagewise additive modeling							a0
+a397	forwards KL							a0
+a398	forwards model							a0
+a399	founder variables							a0
+a400	fraction of variance explained							a0
+a401	Frobenius norm							a0
+a402	full covariance matrix							a0
+a403	full-matrix Adagrad							a0
+a404	furthest neighbor clustering							a0
+a405	Gated Graph Sequence Neural Networks							a0
+a406	gated recurrent units							a0
+a407	Gaussian discriminant analysis							a0
+a408	Gaussian distribution							a0
+a409	Gaussian kernel							a0
+a410	Gaussian mixture model							a0
+a411	Gaussian process							a0
+a412	Gaussian process regression							a0
+a413	Gaussian processes							a0
+a414	Gaussian scale mixture							a0
+a415	generalization error							a0
+a416	generalization gap							a0
+a417	generalized additive model							a0
+a418	generalized CCA							a0
+a419	generalized eigenvalue							a0
+a420	generalized Lagrangian							a0
+a421	generalized linear models							a0
+a422	generalized low rank models							a0
+a423	generalized probit approximation							a0
+a424	Generative adversarial networks							a0
+a425	generative classifier							a0
+a426	generative image model							a0
+a427	Geometric Deep Learning							a0
+a428	geometric series							a0
+a429	Gini index							a0
+a430	global average pooling							a0
+a431	global optimization							a0
+a432	global optimum							a0
+a433	globally convergent							a0
+a434	Glorot initialization							a0
+a435	GloVe							a0
+a436	goodness of fit							a0
+a437	GoogLeNet							a0
+a438	GPT							a0
+a439	GPT-2							a0
+a440	GPT-3							a0
+a441	GPUs							a0
+a442	GPyTorch							a0
+a443	gradient boosted regression trees							a0
+a444	gradient boosting							a0
+a445	gradient clipping							a0
+a446	gradient sign reversal							a0
+a447	gradient tree boosting							a0
+a448	Gram matrix							a0
+a449	Gram Schmidt							a0
+a450	Graph attention network							a0
+a451	Graph convolutional networks							a0
+a452	graph factorization							a0
+a453	graph Laplacian							a0
+a454	graph neural network							a0
+a455	graph neural networks							a0
+a456	graph partition							a0
+a457	Graph Representation Learning							a0
+a458	graphical models							a0
+a459	Graphical Mutual Information							a0
+a460	graphics processing units							a0
+a461	GraphNet							a0
+a462	GraphSAGE							a0
+a463	GraRep							a0
+a464	greedy forward selection							a0
+a465	grid approximation							a0
+a466	grid search							a0
+a467	group lasso							a0
+a468	group normalization							a0
+a469	group sparsity							a0
+a470	grouping effect							a0
+a471	GRU							a0
+a472	Gshard							a0
+a473	Gumbel noise							a0
+a474	Hamiltonian Monte Carlo							a0
+a475	He initialization							a0
+a476	Heaviside							a0
+a477	Heaviside step function							a0
+a478	Helmholtz machine							a0
+a479	Hessian matrix							a0
+a480	heteroskedastic regression							a0
+a481	hierarchical agglomerative clustering							a0
+a482	hierarchical Bayesian model							a0
+a483	hierarchical mixture of experts							a0
+a484	hierarchical softmax							a0
+a485	highest density interval							a0
+a486	highest posterior density							a0
+a487	hinge loss							a0
+a488	Hinton diagram							a0
+a489	Hoeffding’s inequality							a0
+a490	hogwild training							a0
+a491	homoscedastic regression							a0
+a492	Huber loss							a0
+a493	Huffman encoding							a0
+a494	human pose estimation							a0
+a495	Hutchinson trace estimator							a0
+a496	ImageNet							a0
+a497	ImageNet-21k							a0
+a498	inception block							a0
+a499	Inceptionism							a0
+a500	inclusive KL							a0
+a501	incremental learning							a0
+a502	inductive bias							a0
+a503	inductive learning							a0
+a504	InfoNCE							a0
+a505	Integer linear programming							a0
+a506	inverse document frequency							a0
+a507	inverse Gamma distribution							a0
+a508	inverse reinforcement learning							a0
+a509	inverse Wishart							a0
+a510	isomap							a0
+a511	isotropic covariance matrix							a0
+a512	Jacobian							a0
+a513	Jacobian formulation							a0
+a514	Jacobian matrix							a0
+a515	Jacobian vector product							a0
+a516	Jensen’s inequality							a0
+a517	just in time							a0
+a518	K nearest neighbor							a0
+a519	k-d tree							a0
+a520	K-means algorithm							a0
+a521	K-means clustering							a0
+a522	K-means++							a0
+a523	K-medoids							a0
+a524	Kalman filter							a0
+a525	Karush-Kuhn-Tucker							a0
+a526	Katz centrality index							a0
+a527	KDE							a0
+a528	kernel density estimation							a0
+a529	kernel density estimator							a0
+a530	kernel function							a0
+a531	kernel PCA							a0
+a532	kernel regression							a0
+a533	kernel ridge regression							a0
+a534	kernel smoothing							a0
+a535	kernel trick							a0
+a536	KL divergence							a0
+a537	knowledge graph							a0
+a538	Kronecker product							a0
+a539	Krylov subspace methods							a0
+a540	KSG estimator							a0
+a541	Kullback Leibler divergence							a0
+a542	Kullback-Leibler divergence							a0
+a543	L-BFGS							a0
+a544	L0-norm							a0
+a545	L1 loss							a0
+a546	L1 regularization							a0
+a547	L1VM							a0
+a548	L2 loss							a0
+a549	L2 regularization							a0
+a550	L2VM							a0
+a551	Lagrange multiplier							a0
+a552	Lagrange multipliers							a0
+a553	Lagrange notation							a0
+a554	Lagrangian							a0
+a555	Lanczos algorithm							a0
+a556	language model							a0
+a557	language modeling							a0
+a558	language models							a0
+a559	Laplace approximation							a0
+a560	Laplace distribution							a0
+a561	Laplace smoothing							a0
+a562	Laplace vector machine							a0
+a563	Laplace’s rule of succession							a0
+a564	Laplacian eigenmaps							a0
+a565	lasso							a0
+a566	latent coincidence analysis							a0
+a567	latent factors							a0
+a568	latent semantic analysis							a0
+a569	latent semantic indexing							a0
+a570	latent space interpolation							a0
+a571	latent variable							a0
+a572	latent variable models							a0
+a573	latent variables							a0
+a574	law of iterated expectations							a0
+a575	law of total expectation							a0
+a576	law of total variance							a0
+a577	layer normalization							a0
+a578	layer-sequential unit-variance							a0
+a579	Leaky ReLU							a0
+a580	leaky ReLU							a0
+a581	learning to learn							a0
+a582	learning with a critic							a0
+a583	learning with a teacher							a0
+a584	least angle regression							a0
+a585	least favorable prior							a0
+a586	least mean squares							a0
+a587	least squares boosting							a0
+a588	least squares objective							a0
+a589	least squares solution							a0
+a590	leave-one-out cross-validation							a0
+a591	LeCun initialization							a0
+a592	left pseudo inverse							a0
+a593	Leibniz notation							a0
+a594	LeNet							a0
+a595	life-long learning							a0
+a596	LightGBM							a0
+a597	likelihood function							a0
+a598	likelihood principle							a0
+a599	likelihood ratio							a0
+a600	likelihood ratio test							a0
+a601	limited memory BFGS							a0
+a602	line search							a0
+a603	linear autoencoder							a0
+a604	linear combination							a0
+a605	linear discriminant analysis							a0
+a606	linear Gaussian system							a0
+a607	linear kernel							a0
+a608	linear map							a0
+a609	linear operator							a0
+a610	linear programming							a0
+a611	linear rate							a0
+a612	linear subspace							a0
+a613	linear threshold function							a0
+a614	linear transformation							a0
+a615	linearity of expectation							a0
+a616	linearly dependent							a0
+a617	linearly independent							a0
+a618	linearly separable							a0
+a619	Linformer							a0
+a620	link prediction							a0
+a621	Lipschitz constant							a0
+a622	liquid state machine							a0
+a623	local linear embedding							a0
+a624	locality sensitive hashing							a0
+a625	locally linear regression							a0
+a626	locally-weighted scatterplot smoothing							a0
+a627	LOESS							a0
+a628	logistic function							a0
+a629	Logistic regression							a0
+a630	logistic regression							a0
+a631	logit							a0
+a632	logit function							a0
+a633	logitBoost							a0
+a634	logits							a0
+a635	long short term memory							a0
+a636	Lorentz model							a0
+a637	LSTM							a0
+a638	Mahalanobis distance							a0
+a639	Mahalanobis whitening							a0
+a640	manifold assumption							a0
+a641	manifold hypothesis							a0
+a642	manifold learning							a0
+a643	MAP estimate							a0
+a644	MAP estimation							a0
+a645	marginal distribution							a0
+a646	marginal likelihood							a0
+a647	Markov chain							a0
+a648	Markov chain Monte Carlo							a0
+a649	Markov kernel							a0
+a650	Markov model							a0
+a651	masked attention							a0
+a652	masked language model							a0
+a653	matched filter							a0
+a654	matching network							a0
+a655	Matern kernel							a0
+a656	max pooling							a0
+a657	maxent classifier							a0
+a658	maximal information coefficient							a0
+a659	maximum a posterior estimation							a0
+a660	maximum a posteriori							a0
+a661	maximum entropy							a0
+a662	maximum entropy classifer							a0
+a663	maximum entropy model							a0
+a664	maximum entropy sampling							a0
+a665	maximum expected utility principle							a0
+a666	maximum likelihood estimate							a0
+a667	maximum likelihood estimation							a0
+a668	maximum risk							a0
+a669	maximum variance unfolding							a0
+a670	McCulloch-Pitts model							a0
+a671	MCMC							a0
+a672	medoid							a0
+a673	memory-based learning							a0
+a674	Mercer kernel							a0
+a675	Mercer’s theorem							a0
+a676	message passing neural networks							a0
+a677	metric MDS							a0
+a678	Metropolis-adjusted Langevin algorithm							a0
+a679	MICe							a0
+a680	min-max scaling							a0
+a681	minibatch							a0
+a682	minimal representation							a0
+a683	minimal sufficient statistic							a0
+a684	minimally informative prior							a0
+a685	minimax estimator							a0
+a686	minimum description length							a0
+a687	minimum mean squared error							a0
+a688	minimum spanning tree							a0
+a689	minorize-maximize							a0
+a690	mixed ILP							a0
+a691	mixture density network							a0
+a692	mixture of Bernoullis							a0
+a693	mixture of beta distributions							a0
+a694	mixture of experts							a0
+a695	mixture of factor analysers							a0
+a696	mixture of Gaussians							a0
+a697	MobileNet							a0
+a698	momentum contrastive learning							a0
+a699	MoNet							a0
+a700	Monty Hall problem							a0
+a701	most powerful test							a0
+a702	multi-class classification							a0
+a703	multi-clust							a0
+a704	Multi-dimensional scaling							a0
+a705	multi-headed attention							a0
+a706	multi-instance learning							a0
+a707	multi-label classification							a0
+a708	multi-label classifier							a0
+a709	multi-level model							a0
+a710	multi-object tracking							a0
+a711	multiclass logistic regression							a0
+a712	multidimensional scaling							a0
+a713	multilayer perceptron							a0
+a714	multiple imputation							a0
+a715	multiple linear regression							a0
+a716	multivariate Bernoulli naive Bayes							a0
+a717	multivariate Gaussian							a0
+a718	multivariate linear regression							a0
+a719	mutual information							a0
+a720	Nadaraya-Watson							a0
+a721	naive Bayes classifier							a0
+a722	named entity recognition							a0
+a723	natural language inference							a0
+a724	natural language processing							a0
+a725	natural language understanding							a0
+a726	nearest centroid classifier							a0
+a727	nearest class mean classifier							a0
+a728	nearest class mean metric learning							a0
+a729	nearest neighbor clustering							a0
+a730	neighborhood components analysis							a0
+a731	Nesterov accelerated gradient							a0
+a732	neural architecture search							a0
+a733	neural language model							a0
+a734	neural machine translation							a0
+a735	neural matrix factorization							a0
+a736	neural style transfer							a0
+a737	neural tangent kernel							a0
+a738	node2vec							a0
+a739	non-metric MDS							a0
+a740	non-parametric bootstrap							a0
+a741	non-parametric methods							a0
+a742	non-parametric model							a0
+a743	non-saturating activation functions							a0
+a744	nonlinear dimensionality reduction							a0
+a745	nonlinear factor analysis							a0
+a746	Normal-Inverse-Wishart distribution							a0
+a747	normalized mutual information							a0
+a748	normalizer-free networks							a0
+a749	Normalizing flows							a0
+a750	noun phrase chunking							a0
+a751	novelty detection							a0
+a752	NT-Xent							a0
+a753	nu-SVM classifier							a0
+a754	object detection							a0
+a755	observation distribution							a0
+a756	Occam factor							a0
+a757	one-cycle learning rate schedule							a0
+a758	one-hot							a0
+a759	one-hot encoding							a0
+a760	one-hot vector							a0
+a761	one-shot learning							a0
+a762	one-sided test							a0
+a763	one-versus-one							a0
+a764	one-versus-the-rest							a0
+a765	one-vs-all							a0
+a766	online learning							a0
+a767	open set recognition							a0
+a768	OpenPose							a0
+a769	opt-einsum							a0
+a770	Ornstein-Uhlenbeck process							a0
+a771	PageRank							a0
+a772	panoptic segmentation							a0
+a773	parametric ReLU							a0
+a774	part of speech tagging							a0
+a775	Parzen window density estimator							a0
+a776	perceptron							a0
+a777	perceptron learning algorithm							a0
+a778	Platt scaling							a0
+a779	pointwise mutual information							a0
+a780	Poisson regression							a0
+a781	Polyak-Ruppert averaging							a0
+a782	polynomial expansion							a0
+a783	polynomial regression							a0
+a784	pool-based active learning							a0
+a785	position weight matrix							a0
+a786	positional embedding							a0
+a787	positive definite							a0
+a788	positive definite kernel							a0
+a789	positive PMI							a0
+a790	positive semidefinite							a0
+a791	posterior distribution							a0
+a792	posterior expected loss							a0
+a793	posterior inference							a0
+a794	posterior mean							a0
+a795	posterior median							a0
+a796	posterior predictive distribution							a0
+a797	pre-trained word embedding							a0
+a798	pre-training phase							a0
+a799	preactivation resnet							a0
+a800	precision-recall curve							a0
+a801	preconditioned SGD							a0
+a802	preconditioner							a0
+a803	preconditioning matrix							a0
+a804	PreResnet							a0
+a805	principal components analysis							a0
+a806	principal components regression							a0
+a807	probabilistic forecasting							a0
+a808	probabilistic graphical model							a0
+a809	probabilistic inference							a0
+a810	probabilistic matrix factorization							a0
+a811	probabilistic PCA							a0
+a812	probabilistic perspective							a0
+a813	probabilistic prediction							a0
+a814	probabilistic principal components analysis							a0
+a815	probability density function							a0
+a816	probit approximation							a0
+a817	probit function							a0
+a818	probit link function							a0
+a819	projected gradient descent							a0
+a820	proximal gradient descent							a0
+a821	proximal gradient method							a0
+a822	ProxQuant							a0
+a823	quadratic discriminant analysis							a0
+a824	quadratic kernel							a0
+a825	quadratic program							a0
+a826	Quasi-Newton							a0
+a827	quasi-Newton							a0
+a828	question answering							a0
+a829	radial basis function							a0
+a830	radial basis function kernel							a0
+a831	Rand index							a0
+a832	RAND-WALK							a0
+a833	random finite sets							a0
+a834	random forests							a0
+a835	random Fourier features							a0
+a836	random number generator							a0
+a837	random walk kernel							a0
+a838	Rayleigh quotient							a0
+a839	real AdaBoost							a0
+a840	recommendation systems							a0
+a841	Recommender systems							a0
+a842	reconstruction error							a0
+a843	Rectified linear unit							a0
+a844	rectified linear unit							a0
+a845	recurrent neural network							a0
+a846	recurrent neural networks							a0
+a847	reduce-on-plateau							a0
+a848	reduced QR							a0
+a849	Reformer							a0
+a850	regression							a0
+a851	regularization							a0
+a852	regularized discriminant analysis							a0
+a853	regularized empirical risk							a0
+a854	reinforcement learning							a0
+a855	relevance vector machine							a0
+a856	ReLU							a0
+a857	representation learning							a0
+a858	reservoir computing							a0
+a859	reset gate							a0
+a860	ResNet							a0
+a861	ResNet-18							a0
+a862	reverse KL							a0
+a863	reverse mode differentiation							a0
+a864	ridge regression							a0
+a865	Riemannian manifold							a0
+a866	Riemannian metric							a0
+a867	Robbins-Monro conditions							a0
+a868	robust linear regression							a0
+a869	robust logistic regression							a0
+a870	SAMME							a0
+a871	Sammon mapping							a0
+a872	scaled dot-product attention							a0
+a873	Schatten p-norm							a0
+a874	Schur complement							a0
+a875	scree plot							a0
+a876	self attention							a0
+a877	self-normalization property							a0
+a878	self-supervised							a0
+a879	self-supervised learning							a0
+a880	semantic role labeling							a0
+a881	semantic segmentation							a0
+a882	semantic textual similarity							a0
+a883	semi-supervised embeddings							a0
+a884	Semi-supervised learning							a0
+a885	semi-supervised learning							a0
+a886	semidefinite embedding							a0
+a887	semidefinite programming							a0
+a888	sensible PCA							a0
+a889	sentiment analysis							a0
+a890	seq2seq							a0
+a891	seq2seq model							a0
+a892	seq2vec							a0
+a893	Sherman-Morrison formula							a0
+a894	Sherman-Morrison-Woodbury formula							a0
+a895	shrinkage estimation							a0
+a896	shrinkage factor							a0
+a897	Siamese network							a0
+a898	side information							a0
+a899	sifting property							a0
+a900	simplex algorithm							a0
+a901	Simpson’s paradox							a0
+a902	simulated annealing							a0
+a903	single link clustering							a0
+a904	single shot detector							a0
+a905	singular value decomposition							a0
+a906	skip-gram with negative sampling							a0
+a907	skipgram							a0
+a908	skipgram model							a0
+a909	Smoothing splines							a0
+a910	Sobel edge detector							a0
+a911	soft clustering							a0
+a912	soft margin constraints							a0
+a913	soft thresholding							a0
+a914	soft thresholding operator							a0
+a915	soft triple							a0
+a916	softmax							a0
+a917	softmax function							a0
+a918	Softplus							a0
+a919	softplus							a0
+a920	sparse Bayesian learning							a0
+a921	sparse factor analysis							a0
+a922	sparse GP							a0
+a923	sparse kernel machine							a0
+a924	sparse linear regression							a0
+a925	sparse vector machines							a0
+a926	sparsity inducing regularizer							a0
+a927	spectral clustering							a0
+a928	spectral CNNs							a0
+a929	spectral embedding							a0
+a930	spectral graph theory							a0
+a931	spectral radius							a0
+a932	spherical covariance matrix							a0
+a933	spherical embedding constraint							a0
+a934	squared exponential kernel							a0
+a935	Stanford Natural Language Inference							a0
+a936	statistical machine translation							a0
+a937	statistical relational learning							a0
+a938	Stein’s paradox							a0
+a939	stochastic averaged gradient accelerated							a0
+a940	stochastic beam search							a0
+a941	stochastic gradient boosting							a0
+a942	stochastic gradient descent							a0
+a943	stochastic gradient descent with warm restarts							a0
+a944	stochastic matrix							a0
+a945	stochastic neighbor embedding							a0
+a946	stochastic optimization							a0
+a947	stochastic variance reduced gradient							a0
+a948	stochastic volatility model							a0
+a949	Stochastic Weight Averaging							a0
+a950	stochastic weight averaging							a0
+a951	structural deep network embedding							a0
+a952	structural risk minimization							a0
+a953	STS Benchmark							a0
+a954	supervised learning							a0
+a955	supervised PCA							a0
+a956	support vector machine							a0
+a957	support vector machine regression							a0
+a958	support vectors							a0
+a959	SVM regression							a0
+a960	symmetric SNE							a0
+a961	t-SNE							a0
+a962	T5							a0
+a963	textual entailment							a0
+a964	TF-IDF							a0
+a965	thin SVD							a0
+a966	thresholded linear unit							a0
+a967	TICe							a0
+a968	tied							a0
+a969	Tikhonov damping							a0
+a970	Tikhonov regularization							a0
+a971	TinyImages							a0
+a972	TPUs							a0
+a973	transductive learning							a0
+a974	transfer learning							a0
+a975	transformer							a0
+a976	transformers							a0
+a977	Tri-cube kernel							a0
+a978	Tri-Training							a0
+a979	truncated SVD							a0
+a980	Turing machine							a0
+a981	UMAP							a0
+a982	unadjusted Langevin algorithm							a0
+a983	unsupervised learning							a0
+a984	unsupervised pre-training							a0
+a985	variational autoencoder							a0
+a986	variational autoencoders							a0
+a987	variational EM							a0
+a988	variational inference							a0
+a989	variational RNN							a0
+a990	varimax							a0
+a991	VC dimension							a0
+a992	vec2seq							a0
+a993	vicinal risk minimization							a0
+a994	violin plot							a0
+a995	virtual adversarial training							a0
+a996	visible variables							a0
+a997	visual n-grams							a0
+a998	visual scene understanding							a0
+a999	Viterbi decoding							a0
+a1000	VJP							a0
+a1001	Voronoi iteration							a0
+a1002	Voronoi tessellation							a0
+a1003	WAIC							a0
+a1004	weakly supervised learning							a0
+a1005	Widrow-Hoff rule							a0
+a1006	winner takes all							a0
+a1007	WMT dataset							a0
+a1008	Wolfe conditions							a0
+a1009	word embeddings							a0
+a1010	word sense disambiguation							a0
+a1011	word stemming							a0
+a1012	word2vec							a0
+a1013	wordpieces							a0
+a1014	Xavier initialization							a0
+a1015	XGBoost							a0
+a1016	YOLO							a0
+a1017	zero count							a0
+a1018	zero-avoiding							a0
+a1019	zero-forcing							a0
+a1020	zero-one loss							a0
+a1021	zero-padding							a0
+a1022	zero-shot classification							a0
+a1023	zero-shot learning							a0
+a1024	zero-shot task transfer							a0
